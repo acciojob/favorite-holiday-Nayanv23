@@ -23,9 +23,14 @@ body{
 	background-color:window;
 	border-radius:10px;
 	text-align:left;
+	text-decoration-style:bold;
+
 }
 .food{
 	background-color:whitesmoke;
 	border-radius:10px;
 	text-align:left;
+	text-decoration-style:bold;
+	text-decoration-style:italic;
+
 }
