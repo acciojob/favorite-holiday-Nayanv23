@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+body{
+	justify-content:center;
+	align-items:center;
+	text-align:center;
+	background-color:wheat;
+	background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Road_Padum_Zanskar_Range_Jun24_A7CR_00818.jpg/1280px-Road_Padum_Zanskar_Range_Jun24_A7CR_00818.jpg");
+	background-position:center;
+}
+.heading{
+	background-color:lightblue;
+	border-radius:50px;
+	height:50px;
+	padding-top:3%;
+	padding-bottom:2%
+}
+.info{
+	background-size:500px;
+	background-color:white;
+	border-radius:10px;
+}
+.places{
+	background-color:window;
+	border-radius:10px;
+	text-align:left;
+}
+.food{
+	background-color:whitesmoke;
+	border-radius:10px;
+	text-align:left;
+}
